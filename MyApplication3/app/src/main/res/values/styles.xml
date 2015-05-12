@@ -1,0 +1,19 @@
+<!--********************************************************
+* Project Name : Place Reminder.
+* Implemented by : Rohith Engu,AbdulVafa Choudhary
+* SUID's : 678923180,671290061.
+* FileName : styles.xml
+* Application : Xml styles for application.
+**********************************************************-->
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+
+    </style>
+
+    <style name="ItemColor">
+        <item name="android:textColor">#ffe8e8e8</item>
+    </style>
+</resources>
